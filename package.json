@@ -1,0 +1,20 @@
+{
+  "name": "capitalize-title",
+  "version": "0.1.0",
+  "description": "Fixes the capitalization of your post/page title after you type it",
+  "main": "dist/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.9.4"
+  },
+  "dependencies": {
+    "es6-docready": "^1.0.0",
+    "title-capitalization": "0.0.1"
+  }
+}
