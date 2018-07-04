@@ -18,6 +18,8 @@ Very useful when writing articles.
 
 After activating, your post title fields will auto-capitalize when typing in it. This doesn't modify your existing posts.
 
+[Star in Github, or learn from the source](https://github.com/bfintal/Capitalize-Post-Title)
+
 == Installation ==
 
 Upload and activate plugin. Now your title text inputs capitalize automatically.
