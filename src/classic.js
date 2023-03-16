@@ -1,4 +1,4 @@
-import capitalize from 'title-capitalization'
+import { apStyleTitleCase as capitalize } from 'ap-style-title-case'
 import DocReady from 'es6-docready'
 
 const capitalizeInput = el => {
