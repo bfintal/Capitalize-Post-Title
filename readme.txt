@@ -1,6 +1,6 @@
 === Capitalize Titles and Headings ===
 Contributors: bfintal, gambitph
-Tags: capitalize, english, post, page, article, title, heading, blocks, gutenberg, block editor
+Tags: capitalize, title, heading, blocks, gutenberg, block editor
 Requires at least: 6.1
 Tested up to: 6.2
 Requires PHP: 5.7
@@ -25,7 +25,7 @@ This plugin uses the title case rules of [AP](https://en.wikipedia.org/wiki/AP_S
 Type in your post title or Heading block, then click out and the text will get capitalized.
 
 **Works in:**
-- Block Editor 
+- Block Editor / Gutenberg
 - Site Editor
 - Classic Editor
 
@@ -96,7 +96,9 @@ Yep.
 
 == Screenshots ==
 
-1. Auto capitalize title field
+1. Auto capitalize post and page titles
+2. Auto capitalize heading blocks
+3. You can edit capitalized text and it won't capitalize again
 
 == Changelog ==
 
